@@ -10,6 +10,7 @@ function App() {
     <>
       <h1>Test CICD NhonTran</h1>
     </
+
   )
 }
 
