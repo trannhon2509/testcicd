@@ -8,8 +8,8 @@ function App() {
 
   return (
     <>
-      <h1>Test CICD Hai Dang</h1>
-    </
+      <h1>Test CICD NhonTran</h1>
+    </>
   )
 }
 
