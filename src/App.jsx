@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <h1>Test CICD</h1>
+      <h1>Test CICD 2</h1>
     </>
   )
 }
